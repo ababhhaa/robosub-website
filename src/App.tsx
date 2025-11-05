@@ -388,7 +388,7 @@ function App() {
                 />
                 <img
                   src="/images/robosub3.png"
-                  alt="Team building submarine"
+                  alt="building submarine"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full mt-8"
                 />
                 <img
