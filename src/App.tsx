@@ -382,7 +382,7 @@ function App() {
             <div className="lg:pl-8">
               <div className="grid grid-cols-2 gap-4">
                 <img
-                  src="/images/robosub4.png"
+                  src="/robosub4.png"
                   alt="Underwater robotics testing"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
@@ -392,7 +392,7 @@ function App() {
                   className="rounded-2xl shadow-lg object-cover h-48 w-full mt-8"
                 />
                 <img
-                  src="/images/robosub2.png"
+                  src="/robosub2.png"
                   alt="Electronics and programming"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full -mt-8"
                 />
