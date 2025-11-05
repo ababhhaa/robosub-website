@@ -27,19 +27,19 @@ function App() {
           name: "Jack McCaffrey",
           role: "Mechanical Team Lead",
           bio: "Sophomore in Mechanical Engineering with expertise in structures vehicle design and manufacturing. Led the development of our innovative hull design and propulsion system integration.",
-          image: "../images/jack.png"
+          image: "/images/jack.png"
         },
         {
           name: "Neil Zhu",
           role: "Mechanical Team Lead",
           bio: "Freshman in Mechanical Engineering specializing in advanced manufacturing techniques and systems intergration between all areas.",
-          image: "../images/neil copy.png"
+          image: "/images/neil copy.png"
         },
         {
           name: "Grant Gao",
           role: "Mechanical Team Lead",
           bio: "Freshman in Mechanical Engineering specializing in advanced manufacturing techniques and systems intergration between all areas.",
-          image: "../images/grant.jpg"
+          image: "/images/grant.jpg"
         }
       ]
     },
@@ -56,7 +56,7 @@ function App() {
           name: "Aarav Agrawal",
           role: "Software Team Lead",
           bio: "Computer Science major with focus on robotics and AI. Developed our autonomous navigation system and computer vision algorithms for underwater object detection.",
-          image: "../images/aarav.png"
+          image: "/images/aarav.png"
         }
       ]
     },
@@ -89,19 +89,19 @@ function App() {
       details: "Teams must complete tasks including navigation through gates, object detection and manipulation, torpedo firing, and marker dropping - all autonomously underwater.",
       gallery: [
         {
-          image: "../images/robosub5.jpg",
+          image: "/images/robosub5.jpg",
           caption: "Our submarine during pool testing"
         },
         {
-          image: "../images/robosub6.jpg",
+          image: "/images/robosub6.jpg",
           caption: "Team working on hull assembly"
         },
         {
-          image: "../images/robosub7.jpg",
+          image: "/images/robosub7.jpg",
           caption: "Electronics integration and testing"
         },
         {
-          image: "../images/robosub8.jpg",
+          image: "/images/robosub8.jpg",
           caption: "Competition day preparation"
         }
       ],
@@ -382,22 +382,22 @@ function App() {
             <div className="lg:pl-8">
               <div className="grid grid-cols-2 gap-4">
                 <img
-                  src="../images/robosub4.png"
+                  src="/images/robosub4.png"
                   alt="Underwater robotics testing"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
                 <img
-                  src="../images/robosub3.png"
+                  src="/images/robosub3.png"
                   alt="Team building submarine"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full mt-8"
                 />
                 <img
-                  src="../images/robosub2.png"
+                  src="/images/robosub2.png"
                   alt="Electronics and programming"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full -mt-8"
                 />
                 <img
-                  src="../images/robosub1.png"
+                  src="/images/robosub1.png"
                   alt="Competition preparation"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
