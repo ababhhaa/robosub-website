@@ -397,7 +397,7 @@ function App() {
                   className="rounded-2xl shadow-lg object-cover h-48 w-full -mt-8"
                 />
                 <img
-                  src="/images/robosub1.png"
+                  src="../../images/robosub1.png"
                   alt="Competition preparation"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
