@@ -652,7 +652,7 @@ function App() {
                 <Mail className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold mb-2">Email Us</h3>
-              <p className="text-red-100">robosub@wisc.edu</p>
+              <p className="text-red-100">wiscorobosub@gmail.com</p>
             </div>
 
             <div className="text-center">
@@ -660,7 +660,7 @@ function App() {
                 <Phone className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold mb-2">Call Us</h3>
-              <p className="text-red-100">(608) 262-1234</p>
+              <p className="text-red-100">651 425 0477</p>
             </div>
 
             <div className="text-center">
