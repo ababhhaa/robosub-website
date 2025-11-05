@@ -89,11 +89,11 @@ function App() {
       details: "Teams must complete tasks including navigation through gates, object detection and manipulation, torpedo firing, and marker dropping - all autonomously underwater.",
       gallery: [
         {
-          image: "/images/robosub5.jpg",
+          image: "/robosub5.jpg",
           caption: "Our submarine during pool testing"
         },
         {
-          image: "/images/robosub6.jpg",
+          image: "/robosub6.jpg",
           caption: "Team working on hull assembly"
         },
         {
