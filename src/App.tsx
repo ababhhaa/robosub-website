@@ -27,19 +27,19 @@ function App() {
           name: "Jack McCaffrey",
           role: "Mechanical Team Lead",
           bio: "Sophomore in Mechanical Engineering with expertise in structures vehicle design and manufacturing. Led the development of our innovative hull design and propulsion system integration.",
-          image: "/images/jack.png"
+          image: "/jack.png"
         },
         {
           name: "Neil Zhu",
           role: "Mechanical Team Lead",
           bio: "Freshman in Mechanical Engineering specializing in advanced manufacturing techniques and systems intergration between all areas.",
-          image: "/images/neil copy.png"
+          image: "/neil copy.png"
         },
         {
           name: "Grant Gao",
           role: "Mechanical Team Lead",
           bio: "Freshman in Mechanical Engineering specializing in advanced manufacturing techniques and systems intergration between all areas.",
-          image: "/images/grant.jpg"
+          image: "/grant.jpg"
         }
       ]
     },
@@ -56,7 +56,7 @@ function App() {
           name: "Aarav Agrawal",
           role: "Software Team Lead",
           bio: "Computer Science major with focus on robotics and AI. Developed our autonomous navigation system and computer vision algorithms for underwater object detection.",
-          image: "/images/aarav.png"
+          image: "/aarav.png"
         }
       ]
     },
@@ -97,11 +97,11 @@ function App() {
           caption: "Team working on hull assembly"
         },
         {
-          image: "/images/robosub7.jpg",
+          image: "/robosub7.jpg",
           caption: "Electronics integration and testing"
         },
         {
-          image: "/images/robosub8.jpg",
+          image: "/robosub8.jpg",
           caption: "Competition day preparation"
         }
       ],
@@ -387,7 +387,7 @@ function App() {
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
                 <img
-                  src="/images/robosub3.png"
+                  src="/robosub3.png"
                   alt="building submarine"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full mt-8"
                 />
@@ -397,7 +397,7 @@ function App() {
                   className="rounded-2xl shadow-lg object-cover h-48 w-full -mt-8"
                 />
                 <img
-                  src="../../images/robosub1.png"
+                  src="/robosub1.png"
                   alt="Competition preparation"
                   className="rounded-2xl shadow-lg object-cover h-48 w-full"
                 />
